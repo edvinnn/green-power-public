@@ -1,3 +1,6 @@
+/*
+    General scripts for the whole site. Scrolling and resizing stuff.
+*/
 (function($) {
   "use strict"; // Start of use strict
 
