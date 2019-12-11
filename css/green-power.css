@@ -4697,6 +4697,12 @@ a.badge:hover, a.badge:focus {
   text-decoration: none;
 }
 
+a.disabled {
+  pointer-events: none;
+  cursor: default;
+  color: grey;
+}
+
 .badge:empty {
   display: none;
 }
